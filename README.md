@@ -1,16 +1,17 @@
-### Hi there 👋
+Made by: rezhwantony
 
-<!--
-**Rezhwantony/Rezhwantony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# TikTok tony Report Bot
 
-Here are some ideas to get you started:
+## Installation
+```
+  git clone https://github.com/Lorenzik/TikTok-Mass-Report-Bot
+  cd TMRB
+  npm i
+  node .
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to get report URL
+![tutorial](https://cdn.discordapp.com/attachments/984547587904372806/1034532886369542277/tutorial_2.gif)
+
+# +5.000 reports in less than minute
+![tmrb](https://cdn.discordapp.com/attachments/984931450723926066/1027562704006815745/unknown.png)
